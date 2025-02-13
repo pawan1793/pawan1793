@@ -3,7 +3,7 @@
 ## 🚀 About Me
 A seasoned **Lead Software Developer** with over **8 years of expertise** in full-stack development and cloud-based solutions. Proficient in building scalable, high-performance applications with a focus on both back-end and front-end technologies. Skilled in delivering end-to-end solutions, including design, development, deployment, and maintenance of complex software systems.
 
-I specialize in **Kotlin and Android Development**, along with extensive experience in **Laravel** on **Ubuntu 24.04**. I love solving problems, optimizing code, and exploring new technologies.
+I specialize in **PHP/Laravel**, along with extensive experience in **App Development**. I love solving problems, optimizing code, and exploring new technologies.
 
 ## 🛠 Tech Stack
 - **Languages:** PHP, Python, JavaScript, Kotlin
